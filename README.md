@@ -1,2 +1,2 @@
 # URLShortener
-URL Shortner
+This is a python code for URL Shortener
